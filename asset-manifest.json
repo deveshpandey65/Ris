@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ris/static/css/main.1ac86fce.css",
+    "main.js": "/Ris/static/js/main.5039542f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Ris/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Screenshot 2024-09-06 184500.png": "/Ris/static/media/Screenshot 2024-09-06 184500.9a7240553eff69df6dc1.png",
+    "static/media/Screenshot 2024-09-06 184207.png": "/Ris/static/media/Screenshot 2024-09-06 184207.83486fd799527bfd2455.png",
+    "static/media/intro.png": "/Ris/static/media/intro.0eb5aca2bf7e41f44c04.png",
+    "static/media/1725870696253.png": "/Ris/static/media/1725870696253.8409564cb1bdce33c117.png",
+    "static/media/leaf.png": "/Ris/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Ris/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Ris/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/about (2).png": "/Ris/static/media/about (2).0156b46f7f31b2d99ac5.png",
+    "static/media/Screenshot 2024-09-06 184553.png": "/Ris/static/media/Screenshot 2024-09-06 184553.ec1b6d18f9c76c32ce40.png",
+    "static/media/home-bg.jpg": "/Ris/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Ris/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Ris/index.html",
+    "main.1ac86fce.css.map": "/Ris/static/css/main.1ac86fce.css.map",
+    "main.5039542f.js.map": "/Ris/static/js/main.5039542f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Ris/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac86fce.css",
+    "static/js/main.5039542f.js"
+  ]
+}
