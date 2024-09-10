@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ris/static/css/main.eec3406c.css",
-    "main.js": "/Ris/static/js/main.44ea92fe.js",
+    "main.js": "/Ris/static/js/main.7bf4ac59.js",
     "static/js/787.1ed0c42c.chunk.js": "/Ris/static/js/787.1ed0c42c.chunk.js",
     "static/media/Screenshot 2024-09-06 184500.png": "/Ris/static/media/Screenshot 2024-09-06 184500.9a7240553eff69df6dc1.png",
     "static/media/Screenshot 2024-09-06 184207.png": "/Ris/static/media/Screenshot 2024-09-06 184207.83486fd799527bfd2455.png",
@@ -17,11 +17,11 @@
     "static/media/OQ-Code-Payments.webp": "/Ris/static/media/OQ-Code-Payments.86211ab7110c4a53b1a2.webp",
     "index.html": "/Ris/index.html",
     "main.eec3406c.css.map": "/Ris/static/css/main.eec3406c.css.map",
-    "main.44ea92fe.js.map": "/Ris/static/js/main.44ea92fe.js.map",
+    "main.7bf4ac59.js.map": "/Ris/static/js/main.7bf4ac59.js.map",
     "787.1ed0c42c.chunk.js.map": "/Ris/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eec3406c.css",
-    "static/js/main.44ea92fe.js"
+    "static/js/main.7bf4ac59.js"
   ]
 }
